@@ -76,3 +76,5 @@ Developed by: sathiya murthy k  RegisterNumber:* 25006776
 **Output/TIMING Waveform**
 
 **Result:**
+
+Thus the Half Adder and Half Subtractor are studied and the truth tables are verified
